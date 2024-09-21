@@ -1,4 +1,5 @@
 Welcome to python workshop
 in gec vaishali
 from 19-sep to 28-sep
-It is very important session
+It is very important session.
+We are going to learn basic components of python.
