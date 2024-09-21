@@ -1,2 +1,3 @@
 Welcome to python workshop
 in gec vaishali
+from 19-sep to 28-sep
